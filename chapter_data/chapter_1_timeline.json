@@ -1,0 +1,79 @@
+{
+  "events": [
+    {
+      "name": "End of Training Session",
+      "participants": [
+        "Ma\u00ebl",
+        "Carl"
+      ],
+      "location": "Arsenal's Colney Training Ground, U17 Training Field",
+      "timeReference": "June 10, 2010, end of the day",
+      "outcome": "Ma\u00ebl and Carl discuss their uncertain futures with the team",
+      "contextExcerpt": "Two long whistles signaled the end of the day's training. Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+    },
+    {
+      "name": "Ma\u00ebl's Shoe Dilemma",
+      "participants": [
+        "Ma\u00ebl"
+      ],
+      "location": "Arsenal's Colney Training Ground, U17 Training Field",
+      "timeReference": "Immediately after the training session",
+      "outcome": "Ma\u00ebl contemplates the state of his shoes and his financial situation",
+      "contextExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again. It\u2019s probably time to retire them."
+    },
+    {
+      "name": "Discussion with Carl",
+      "participants": [
+        "Ma\u00ebl",
+        "Carl"
+      ],
+      "location": "Arsenal's Colney Training Ground, U17 Training Field",
+      "timeReference": "After the training session",
+      "outcome": "Both express their concerns about their trial periods ending",
+      "contextExcerpt": "Ma\u00ebl, how long is your trial period? Mine is only six months, and it\u2019s about to expire."
+    },
+    {
+      "name": "Ma\u00ebl's Extra Practice",
+      "participants": [
+        "Ma\u00ebl"
+      ],
+      "location": "Arsenal's Colney Training Ground, U17 Training Field",
+      "timeReference": "After the discussion with Carl",
+      "outcome": "Ma\u00ebl decides to practice more shots to improve his chances",
+      "contextExcerpt": "Ma\u00ebl stood up, picked up a few soccer balls, and walked to the field with his already separating shoes. The last twenty-one days! If he wanted to stay at Arsenal, he needed to make the most of every moment."
+    },
+    {
+      "name": "Meeting with Coach Hans",
+      "participants": [
+        "Ma\u00ebl",
+        "Hans"
+      ],
+      "location": "U17 Coach\u2019s Office",
+      "timeReference": "After Ma\u00ebl's extra practice",
+      "outcome": "Hans offers Ma\u00ebl a pair of his own shoes",
+      "contextExcerpt": "Ma\u00ebl stopped, sweating profusely, and turned to see a tall, bald middle-aged man waving at him from a distance. It was Hans, the Head Coach of Arsenal U17."
+    },
+    {
+      "name": "Receiving New Shoes",
+      "participants": [
+        "Ma\u00ebl",
+        "Hans"
+      ],
+      "location": "U17 Coach\u2019s Office",
+      "timeReference": "During the meeting with Coach Hans",
+      "outcome": "Ma\u00ebl receives a pair of Hans' shoes and feels grateful",
+      "contextExcerpt": "Hans quickly handed him a bag with a pair of shoes and laughed heartily. 'Go try them on the field and see if they fit. I have some work to do.'"
+    },
+    {
+      "name": "Discovery of the System",
+      "participants": [
+        "Ma\u00ebl",
+        "System"
+      ],
+      "location": "Arsenal's Colney Training Ground, U17 Training Field",
+      "timeReference": "After receiving the new shoes",
+      "outcome": "Ma\u00ebl discovers a system that tracks his skill proficiency",
+      "contextExcerpt": "Suddenly, a few lines of deep black text appeared before his eyes. [Skill: Long Shot Level 1] [Proficiency: (34/100)]"
+    }
+  ]
+}

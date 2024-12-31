@@ -1,0 +1,212 @@
+{
+  "entities": [
+    {
+      "name": "Ma\u00ebl",
+      "type": "Character",
+      "aliases": [
+        "Li Muchen"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl raised an eyebrow in regret, somewhat helplessly. 'If we don\u2019t get a contract extension by July 1st, we\u2019ll both be on our way out.'"
+        },
+        {
+          "textExcerpt": "Ma\u00ebl stood up, picked up a few soccer balls, and walked to the field with his already separating shoes."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl stopped, sweating profusely, and turned to see a tall, bald middle-aged man waving at him from a distance."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl\u2019s heart trembled. He instinctively wanted to decline but glanced at his feet and bit his lip. 'About size 8.5.'"
+        },
+        {
+          "textExcerpt": "Ma\u00ebl took the shoes, thanked him, and walked back to the field. He would remember this act of kindness."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl quickly immersed himself in the shooting drills, carefully feeling the feedback from each successful shot and the experience from each failed attempt."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl suddenly stopped, stunned."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl ran to the goal area to retrieve the ball. This time, his steps were particularly strong, and his face lit up with a newfound vigor."
+        }
+      ]
+    },
+    {
+      "name": "Carl",
+      "type": "Character",
+      "aliases": [
+        "the French defender"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "A voice beside him spoke. It was Carl, the French defender on the team, who sounded very dejected. 'Mine is only six months, and it\u2019s about to expire.'"
+        },
+        {
+          "textExcerpt": "Carl looked around at the young players in Arsenal jerseys and shook his head. 'If I go back, I don\u2019t know if any club will want me.'"
+        }
+      ]
+    },
+    {
+      "name": "Hans",
+      "type": "Character",
+      "aliases": [
+        "the Head Coach of Arsenal U17"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Ma\u00ebl stopped, sweating profusely, and turned to see a tall, bald middle-aged man waving at him from a distance. It was Hans, the Head Coach of Arsenal U17."
+        },
+        {
+          "textExcerpt": "Hans\u2019s eyes immediately focused on Ma\u00ebl\u2019s feet. 'I have a few pairs I don\u2019t use anymore. I can lend you one.'"
+        },
+        {
+          "textExcerpt": "Hans smiled and turned to search through a shoe rack. 'I noticed your shoes have come apart several times and been glued back. I thought I\u2019d lend you a pair of mine to use for now, at least until the trial period is over.'"
+        },
+        {
+          "textExcerpt": "Hans quickly handed him a bag with a pair of shoes and laughed heartily. 'Go try them on the field and see if they fit. I have some work to do.'"
+        }
+      ]
+    },
+    {
+      "name": "Arsenal's Colney Training Ground",
+      "type": "Location",
+      "aliases": [
+        "U17 Training Field"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Arsenal's Colney Training Ground, U17 Training Field."
+        },
+        {
+          "textExcerpt": "Looking at the brand-new shoes on the feet of his peers, Ma\u00ebl felt a twinge of envy."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl stood up, picked up a few soccer balls, and walked to the field with his already separating shoes."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl took the shoes, thanked him, and walked back to the field. He would remember this act of kindness."
+        },
+        {
+          "textExcerpt": "Back at the goal area, he put on the new shoes and resumed his shooting practice."
+        }
+      ]
+    },
+    {
+      "name": "Arsenal",
+      "type": "Faction",
+      "aliases": [
+        "Arsenal Youth Team",
+        "Arsenal U17"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Looking at the brand-new shoes on the feet of his peers, Ma\u00ebl felt a twinge of envy."
+        },
+        {
+          "textExcerpt": "Carl looked around at the young players in Arsenal jerseys and shook his head. 'If I go back, I don\u2019t know if any club will want me.'"
+        },
+        {
+          "textExcerpt": "Fortunately, the original owner had some talent and received an invitation to trial with the Arsenal Youth Team six months ago, for a six-month period."
+        },
+        {
+          "textExcerpt": "If he made it, Arsenal would offer him a salary that would allow him to continue pursuing his dream."
+        },
+        {
+          "textExcerpt": "Hans, the Head Coach of Arsenal U17."
+        }
+      ]
+    },
+    {
+      "name": "Chinese National Football Team",
+      "type": "Faction",
+      "aliases": [
+        "Chinese National Team"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Who knew that the angry drinking session after the Chinese National Football Team\u2019s 0-7 loss to Japan a few days ago would be his swan song in that timeline."
+        }
+      ]
+    },
+    {
+      "name": "System",
+      "type": "Concept",
+      "aliases": [
+        "Skill System"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Suddenly, a few lines of deep black text appeared before his eyes. [Skill: Long Shot Level 1] [Proficiency: (34/100)] [Effect: You gradually feel the thrill of long-distance shots and start to practice more diligently. However, your basic strength and accuracy are still far from sufficient. You yearn for the moment of upgrading and improvement.] [Note: Level 1 is the lowest, Level 5 is the highest! Any athletic or physical ability that reaches Level 5 will be at the highest human standard!] Ma\u00ebl suddenly stopped, stunned."
+        },
+        {
+          "textExcerpt": "Fortunately, as a former internet enthusiast, he had seen a lot and quickly ventured a guess. 'System?'"
+        }
+      ]
+    },
+    {
+      "name": "Southern France",
+      "type": "Location",
+      "aliases": [
+        "France"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "The original owner of this body was born into an unfortunate family in Southern France, with Chinese ancestry, but had settled there for generations."
+        }
+      ]
+    },
+    {
+      "name": "June 10, 2010",
+      "type": "Concept",
+      "aliases": [
+        "2010"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "June 10, 2010."
+        }
+      ]
+    },
+    {
+      "name": "2024",
+      "type": "Concept",
+      "aliases": [
+        "2024 timeline"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Li Muchen, a 2024 office worker deeply in love with soccer, was his true identity."
+        }
+      ]
+    },
+    {
+      "name": "Soccer",
+      "type": "Concept",
+      "aliases": [
+        "football"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+        },
+        {
+          "textExcerpt": "Looking at the brand-new shoes on the feet of his peers, Ma\u00ebl felt a twinge of envy."
+        },
+        {
+          "textExcerpt": "Li Muchen, a 2024 office worker deeply in love with soccer, was his true identity."
+        },
+        {
+          "textExcerpt": "If he made it, Arsenal would offer him a salary that would allow him to continue pursuing his dream."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl desperately wanted to stay on the soccer field. This was the sport he loved, the one he was willing to devote all his time and energy to."
+        }
+      ]
+    }
+  ]
+}

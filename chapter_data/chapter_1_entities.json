@@ -1,0 +1,176 @@
+{
+  "entities": [
+    {
+      "name": "Ma\u00ebl",
+      "type": "Character",
+      "aliases": [
+        "Li Muchen"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Ma\u00ebl sat on the ground stretching his muscles..."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl raised an eyebrow in regret, somewhat helplessly."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl stood up, picked up a few soccer balls, and walked to the field with his already separating shoes."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl stopped, sweating profusely, and turned to see a tall, bald middle-aged man waving at him from a distance."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl\u2019s heart trembled. He instinctively wanted to decline but glanced at his feet and bit his lip."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl took the shoes, thanked him, and walked back to the field."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl quickly immersed himself in the shooting drills, carefully feeling the feedback from each successful shot and the experience from each failed attempt."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl desperately wanted to stay on the soccer field."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl suddenly stopped, stunned."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl ran to the goal area to retrieve the ball."
+        }
+      ]
+    },
+    {
+      "name": "Carl",
+      "type": "Character",
+      "aliases": [
+        "the French defender"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "A voice beside him spoke. It was Carl, the French defender on the team, who sounded very dejected."
+        },
+        {
+          "textExcerpt": "Carl looked around at the young players in Arsenal jerseys and shook his head."
+        }
+      ]
+    },
+    {
+      "name": "Hans",
+      "type": "Character",
+      "aliases": [
+        "the Head Coach of Arsenal U17"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Ma\u00ebl stopped, sweating profusely, and turned to see a tall, bald middle-aged man waving at him from a distance."
+        },
+        {
+          "textExcerpt": "It was Hans, the Head Coach of Arsenal U17."
+        },
+        {
+          "textExcerpt": "Hans\u2019s eyes immediately focused on Ma\u00ebl\u2019s feet."
+        },
+        {
+          "textExcerpt": "Hans smiled and turned to search through a shoe rack."
+        },
+        {
+          "textExcerpt": "Hans quickly handed him a bag with a pair of shoes and laughed heartily."
+        }
+      ]
+    },
+    {
+      "name": "Arsenal's Colney Training Ground",
+      "type": "Location",
+      "aliases": [
+        "Colney Training Ground",
+        "U17 Training Field"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Arsenal's Colney Training Ground, U17 Training Field."
+        },
+        {
+          "textExcerpt": "Looking at the brand-new shoes on the feet of his peers, Ma\u00ebl felt a twinge of envy."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl stood up, picked up a few soccer balls, and walked to the field with his already separating shoes."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl stopped his training and walked toward the coach\u2019s office."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl took the shoes, thanked him, and walked back to the field."
+        },
+        {
+          "textExcerpt": "Back at the goal area, he put on the new shoes and resumed his shooting practice."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl ran to the goal area to retrieve the ball."
+        }
+      ]
+    },
+    {
+      "name": "Arsenal U17",
+      "type": "Faction",
+      "aliases": [
+        "Arsenal Youth Team"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Fortunately, the original owner had some talent and received an invitation to trial with the Arsenal Youth Team six months ago, for a six-month period."
+        },
+        {
+          "textExcerpt": "In the talent-rich Arsenal youth academy, he had little chance of standing out."
+        },
+        {
+          "textExcerpt": "It was Hans, the Head Coach of Arsenal U17."
+        }
+      ]
+    },
+    {
+      "name": "Soccer Shoe",
+      "type": "Object",
+      "aliases": [
+        "shoes"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl\u2019s heart trembled. He instinctively wanted to decline but glanced at his feet and bit his lip."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl took the shoes, thanked him, and walked back to the field."
+        },
+        {
+          "textExcerpt": "Back at the goal area, he put on the new shoes and resumed his shooting practice."
+        }
+      ]
+    },
+    {
+      "name": "System",
+      "type": "Concept",
+      "aliases": [
+        "Skill System"
+      ],
+      "mentions": [
+        {
+          "textExcerpt": "Suddenly, a few lines of deep black text appeared before his eyes."
+        },
+        {
+          "textExcerpt": "Ma\u00ebl suddenly stopped, stunned."
+        },
+        {
+          "textExcerpt": "Fortunately, as a former internet enthusiast, he had seen a lot and quickly ventured a guess. 'System?'"
+        },
+        {
+          "textExcerpt": "It seemed that as long as he continued to practice specific skills, his proficiency would increase, and once it reached 100%, he would level up?"
+        },
+        {
+          "textExcerpt": "In other words, as long as he kept working hard, he could keep improving, and his efforts wouldn\u2019t be in vain?"
+        }
+      ]
+    }
+  ]
+}

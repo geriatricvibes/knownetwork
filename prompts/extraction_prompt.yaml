@@ -1,0 +1,34 @@
+prompt: |
+  You are an assistant specializing in extracting entities from fictional text. I will provide you with the text of a single chapter. Your task is:
+
+  1. Identify all **unique entities** mentioned in the text (characters, locations, objects, factions, or significant concepts).
+  2. For each entity:
+     - Specify the **name** (most commonly used or canonical name).
+     - Classify the **type** as one of: "Character", "Location", "Object", "Faction", "Concept", or "Other" if unsure.
+     - List any **aliases** (alternative names or titles) you find in the text.
+     - Provide a **mentions** array that includes:
+       - A short **textExcerpt** where each mention occurs.
+
+  3. Return the information as **valid JSON** following the structure below:
+
+  {{
+    "entities": [
+      {{
+        "name": "Aiden",
+        "type": "Character",
+        "aliases": ["The Crimson Prince"],
+        "mentions": [
+          {{
+            "textExcerpt": "Aiden unsheathed his blade..."
+          }}
+        ]
+      }}
+    ]
+  }}
+
+  **Important Notes**:
+  - Include **all** relevant entities.  
+  - Do **not** add extra fields beyond those requested.  
+  - If an entity has no aliases, provide an empty array (e.g., `"aliases": []`).  
+  - Be sure to wrap your final output in **valid JSON**—no extra commentary or text outside the JSON object.
+

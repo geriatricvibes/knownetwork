@@ -1,0 +1,627 @@
+{
+  "basicEntities": {
+    "entities": [
+      {
+        "name": "Ma\u00ebl",
+        "type": "Character",
+        "aliases": [
+          "big brother"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "The sound of Ma\u00ebl\u2019s feet making contact with the Soccer Ball echoed again."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl called up the panel again."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl\u2019s eyes lit up."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl had a hunch, but he didn\u2019t waste too much time thinking about it."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl dreamed of the future."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl didn\u2019t know how long he had been practicing or how many shots he had taken."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl felt refreshed. He hummed a tune as he walked back to the Dormitory."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl answered honestly."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl smiled."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl replied."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl hung up the phone, feeling a wave of drowsiness."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl was stunned for a long time, feeling a mix of emotions."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl woke up feeling sore all over, probably due to the intense training the day before."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl went to the equipment room and borrowed 10 Soccer Balls, then headed to the field to start his shooting practice."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl placed all the Soccer Balls in front of the Penalty Arc and fired off two shots, both hitting the target with good quality."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl drank some water and rested for a while before forcing himself to finish lunch in the Canteen."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl dragged his tired body back to the training field for another round of practice."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl felt a surge of strength in his legs and ankles, and his muscle memory for shooting rapidly improved."
+          }
+        ]
+      },
+      {
+        "name": "Soccer Ball",
+        "type": "Object",
+        "aliases": [
+          "ball"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "The sound of Ma\u00ebl\u2019s feet making contact with the Soccer Ball echoed again."
+          },
+          {
+            "textExcerpt": "He picked up the Soccer Ball and started his shooting practice again."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl swung his leg and took another shot. Overwhelmed by excitement, he kicked too hard and sent the ball soaring into the sky."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl didn\u2019t know how long he had been practicing or how many shots he had taken."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl dragged his leaden right leg and carrying the Soccer Ball back to the Dormitory."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl went to the equipment room and borrowed 10 Soccer Balls, then headed to the field to start his shooting practice."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl placed all the Soccer Balls in front of the Penalty Arc and fired off two shots, both hitting the target with good quality."
+          },
+          {
+            "textExcerpt": "One after another, the Soccer Balls hit the Goal Net, causing it to shake violently and indent."
+          }
+        ]
+      },
+      {
+        "name": "Long Shot",
+        "type": "Skill",
+        "aliases": [
+          "Powerful Shot"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "\u3010Skill: Long Shot Level 1\u3011"
+          },
+          {
+            "textExcerpt": "\u3010Proficiency: (38/100)\u3011"
+          },
+          {
+            "textExcerpt": "\u3010Effect: You gradually feel\u3011"
+          },
+          {
+            "textExcerpt": "At this rate, he might be able to upgrade Long Shot to Level 2 in just two or three days."
+          },
+          {
+            "textExcerpt": "\u3010Skill: Long Shot Level 1\u3011"
+          },
+          {
+            "textExcerpt": "\u3010Proficiency: (61/100)\u3011"
+          },
+          {
+            "textExcerpt": "\u3010Effect: You gradually feel\u3011"
+          },
+          {
+            "textExcerpt": "\u3010Skill: Powerful Shot Level 2\u3011"
+          },
+          {
+            "textExcerpt": "\u3010Proficiency: (1/300)\u3011"
+          },
+          {
+            "textExcerpt": "\u3010Effect: After long practice, your Long Shot ability has begun to show its potential. When you have sufficient preparation time and full power, you can occasionally produce an excellent Long Shot!\u3011"
+          }
+        ]
+      },
+      {
+        "name": "Dormitory",
+        "type": "Location",
+        "aliases": [
+          "Dorm"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Ma\u00ebl dragged his leaden right leg and carrying the Soccer Ball back to the Dormitory."
+          },
+          {
+            "textExcerpt": "He hummed a tune as he walked back to the Dormitory."
+          },
+          {
+            "textExcerpt": "After a nap in the Dormitory, at three in the afternoon, he dragged his tired body back to the training field for another round of practice."
+          }
+        ]
+      },
+      {
+        "name": "Training Base",
+        "type": "Location",
+        "aliases": [
+          "Base"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "They usually slept in the Dormitory and ate at the Training Base\u2019s Canteen, so there wasn\u2019t much to spend on."
+          }
+        ]
+      },
+      {
+        "name": "Canteen",
+        "type": "Location",
+        "aliases": [
+          "Cafeteria"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "They usually slept in the Dormitory and ate at the Training Base\u2019s Canteen, so there wasn\u2019t much to spend on."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl drank some water and rested for a while before forcing himself to finish lunch in the Canteen."
+          }
+        ]
+      },
+      {
+        "name": "Uncle",
+        "type": "Character",
+        "aliases": [
+          "Uncle"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "It was Uncle calling."
+          },
+          {
+            "textExcerpt": "How have things been these past few days?"
+          },
+          {
+            "textExcerpt": "Uncle\u2019s voice came from the other end."
+          },
+          {
+            "textExcerpt": "Younger Sister has been looking for you. I\u2019ll let her take the phone, Eva!"
+          },
+          {
+            "textExcerpt": "Another message followed, from Uncle\u2019s phone number: 'It\u2019s been a long time since you bought new soccer shoes. Buy a pair tomorrow. Uncle can\u2019t give you much, but I hope you can achieve your dreams at Arsenal.'"
+          }
+        ]
+      },
+      {
+        "name": "Eva",
+        "type": "Character",
+        "aliases": [
+          "Younger Sister"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Uncle\u2019s youngest sister, Eva, was seven years old and had the best relationship with the original owner, being the most adorable."
+          },
+          {
+            "textExcerpt": "When will big brother come back?"
+          },
+          {
+            "textExcerpt": "Can I see big brother play on TV?"
+          },
+          {
+            "textExcerpt": "I\u2019m about to have summer vacation, so I can go out every day. I want big brother to take me to eat pizza."
+          }
+        ]
+      },
+      {
+        "name": "Coach Hans",
+        "type": "Character",
+        "aliases": [
+          "Coach"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Especially after Coach Hans lent him a pair of soccer shoes, he had nothing to worry about."
+          }
+        ]
+      },
+      {
+        "name": "Arsenal Youth Academy",
+        "type": "Location",
+        "aliases": [
+          "Youth Academy"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Another message followed, from Uncle\u2019s phone number: 'It\u2019s been a long time since you bought new soccer shoes. Buy a pair tomorrow. Uncle can\u2019t give you much, but I hope you can achieve your dreams at Arsenal.'"
+          },
+          {
+            "textExcerpt": "Usually, the Arsenal Youth Academy had two training sessions a day: Morning Training and Afternoon Training."
+          }
+        ]
+      },
+      {
+        "name": "Coaching Staff",
+        "type": "Faction",
+        "aliases": [
+          "Staff"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Time was running out, and he needed to have a standout feature to catch the eye of the Coaching Staff!"
+          }
+        ]
+      },
+      {
+        "name": "Team Equipment Room",
+        "type": "Location",
+        "aliases": [
+          "Equipment Room"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "If the Team Equipment Room hadn\u2019t already closed, he would have borrowed a few more Soccer Balls to kick and retrieve."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl went to the equipment room and borrowed 10 Soccer Balls, then headed to the field to start his shooting practice."
+          }
+        ]
+      },
+      {
+        "name": "Penalty Arc",
+        "type": "Location",
+        "aliases": [
+          "Arc"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Ma\u00ebl placed all the Soccer Balls in front of the Penalty Arc and fired off two shots, both hitting the target with good quality."
+          }
+        ]
+      },
+      {
+        "name": "Goal Net",
+        "type": "Object",
+        "aliases": [
+          "Net"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "One after another, the Soccer Balls hit the Goal Net, causing it to shake violently and indent."
+          }
+        ]
+      }
+    ]
+  },
+  "entityDetails": {
+    "entityDetails": [
+      {
+        "name": "Ma\u00ebl",
+        "description": "A young soccer player training intensely to improve his skills and make a name for himself at the Arsenal Youth Academy",
+        "physicalTraits": "Not explicitly described, but implied to be fit and capable of intense physical training",
+        "abilities": [
+          "Long Shot Level 1",
+          "Powerful Shot Level 2"
+        ],
+        "roleInChapter": "Protagonist and aspiring soccer player",
+        "motivations": "To improve his Long Shot skill, catch the eye of the Coaching Staff, and achieve his dream of playing professionally",
+        "status": "Exhausted but motivated, with a significant increase in proficiency",
+        "notes": "Receives financial support from his Uncle and has a close relationship with his younger sister, Eva"
+      },
+      {
+        "name": "Soccer Ball",
+        "description": "The primary object used by Ma\u00ebl for his training",
+        "physicalTraits": "Not explicitly described, but implied to be a standard soccer ball",
+        "abilities": [],
+        "roleInChapter": "Central tool for Ma\u00ebl's practice and skill improvement",
+        "motivations": [],
+        "status": "Used extensively during training",
+        "notes": "Ma\u00ebl uses multiple Soccer Balls to increase his training efficiency"
+      },
+      {
+        "name": "Long Shot",
+        "description": "A shooting skill that Ma\u00ebl is focusing on improving",
+        "physicalTraits": [],
+        "abilities": [
+          "Gradually feel the improvement",
+          "Occasionally produce an excellent Long Shot with sufficient preparation and full power (Level 2)"
+        ],
+        "roleInChapter": "Key skill being developed by Ma\u00ebl",
+        "motivations": [],
+        "status": "Upgraded from Level 1 to Level 2",
+        "notes": "Ma\u00ebl's proficiency increased significantly through intense practice"
+      },
+      {
+        "name": "Dormitory",
+        "description": "The place where Ma\u00ebl and other trainees sleep and rest",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Ma\u00ebl's living quarters at the Arsenal Youth Academy",
+        "motivations": [],
+        "status": "Serves as a resting place after intense training",
+        "notes": "Ma\u00ebl returns here after his training sessions"
+      },
+      {
+        "name": "Training Base",
+        "description": "The facility where Ma\u00ebl and other trainees practice and train",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Primary location for Ma\u00ebl's training activities",
+        "motivations": [],
+        "status": "Active and bustling with trainees",
+        "notes": "Includes a Canteen and an Equipment Room"
+      },
+      {
+        "name": "Canteen",
+        "description": "The dining area at the Training Base where trainees eat",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Place where Ma\u00ebl eats his meals",
+        "motivations": [],
+        "status": "Operational and serves meals to trainees",
+        "notes": "Ma\u00ebl eats breakfast and lunch here"
+      },
+      {
+        "name": "Uncle",
+        "description": "Ma\u00ebl's supportive relative who provides financial and emotional support",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Cares for Ma\u00ebl and encourages him to pursue his dreams",
+        "motivations": "Wants Ma\u00ebl to succeed and offers a fallback plan if he can't stay at the Academy",
+        "status": "Concerned about Ma\u00ebl's well-being and progress",
+        "notes": "Transfers money to Ma\u00ebl and offers to help him find an apprenticeship if needed"
+      },
+      {
+        "name": "Eva",
+        "description": "Ma\u00ebl's younger sister who has a close relationship with him",
+        "physicalTraits": "Seven years old, described as adorable",
+        "abilities": [],
+        "roleInChapter": "Supportive and excited about Ma\u00ebl's potential success",
+        "motivations": "Wants to see Ma\u00ebl play on TV and spend time with him",
+        "status": "Looking forward to Ma\u00ebl's success and summer vacation",
+        "notes": "Has a sweet and innocent voice, and is well-behaved"
+      },
+      {
+        "name": "Coach Hans",
+        "description": "A coach at the Arsenal Youth Academy who has lent Ma\u00ebl a pair of soccer shoes",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Supportive coach who helps Ma\u00ebl with his equipment",
+        "motivations": "Wants to see Ma\u00ebl succeed and improve",
+        "status": "Has lent Ma\u00ebl a pair of soccer shoes",
+        "notes": "Mentioned as a source of support for Ma\u00ebl"
+      },
+      {
+        "name": "Arsenal Youth Academy",
+        "description": "The training facility where Ma\u00ebl is pursuing his soccer career",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Primary setting for Ma\u00ebl's training and development",
+        "motivations": [],
+        "status": "Active and structured with a training schedule",
+        "notes": "Includes multiple training sessions and cultural studies classes"
+      },
+      {
+        "name": "Coaching Staff",
+        "description": "The group of coaches and trainers at the Arsenal Youth Academy",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Evaluates and trains the young players",
+        "motivations": "To identify and develop talented players",
+        "status": "Active and influential in Ma\u00ebl's career progression",
+        "notes": "Ma\u00ebl aims to catch their eye with his improved skills"
+      },
+      {
+        "name": "Team Equipment Room",
+        "description": "The facility where trainees can borrow equipment",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Source of Soccer Balls for Ma\u00ebl's training",
+        "motivations": [],
+        "status": "Operational and accessible to trainees",
+        "notes": "Ma\u00ebl borrows multiple Soccer Balls from here"
+      },
+      {
+        "name": "Penalty Arc",
+        "description": "The area on the soccer field where Ma\u00ebl places the Soccer Balls for his shooting practice",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Specific location for Ma\u00ebl's shooting practice",
+        "motivations": [],
+        "status": "Used by Ma\u00ebl for his training",
+        "notes": "Ma\u00ebl places all the Soccer Balls here before starting his practice"
+      },
+      {
+        "name": "Goal Net",
+        "description": "The target for Ma\u00ebl's shooting practice",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Receives the Soccer Balls during Ma\u00ebl's practice",
+        "motivations": [],
+        "status": "Shaken and indented by the force of Ma\u00ebl's shots",
+        "notes": "Indicates the effectiveness of Ma\u00ebl's practice"
+      }
+    ]
+  },
+  "relationships": {
+    "relationships": [
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Soccer Ball",
+        "relationshipType": "wields",
+        "contextExcerpt": "Ma\u00ebl\u2019s feet making contact with the Soccer Ball echoed again. Filled with energy, he continued practicing."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Long Shot",
+        "relationshipType": "uses",
+        "contextExcerpt": "\u3010Skill: Long Shot Level 1\u3011"
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Dormitory",
+        "relationshipType": "lives_in",
+        "contextExcerpt": "Ma\u00ebl dragged his leaden right leg and carrying the Soccer Ball back to the Dormitory."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Training Base",
+        "relationshipType": "travels_to",
+        "contextExcerpt": "They usually slept in the Dormitory and ate at the Training Base\u2019s Canteen."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Canteen",
+        "relationshipType": "travels_to",
+        "contextExcerpt": "After breakfast in the Canteen, Ma\u00ebl went to the equipment room and borrowed 10 Soccer Balls."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Uncle",
+        "relationshipType": "related_to",
+        "contextExcerpt": "Uncle\u2019s voice came from the other end. 'How have things been these past few days?'"
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Eva",
+        "relationshipType": "related_to",
+        "contextExcerpt": "Ma\u00ebl smiled. Uncle\u2019s youngest sister, Eva, was seven years old and had the best relationship with the original owner."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Coach Hans",
+        "relationshipType": "mentored_by",
+        "contextExcerpt": "Especially after Coach Hans lent him a pair of soccer shoes, he had nothing to worry about."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Coaching Staff",
+        "relationshipType": "monitored_by",
+        "contextExcerpt": "He needed to have a standout feature to catch the eye of the Coaching Staff!"
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Arsenal Youth Academy",
+        "relationshipType": "member_of",
+        "contextExcerpt": "Ma\u00ebl woke up feeling sore all over, probably due to the intense training the day before."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Team Equipment Room",
+        "relationshipType": "visits",
+        "contextExcerpt": "Ma\u00ebl went to the equipment room and borrowed 10 Soccer Balls."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Penalty Arc",
+        "relationshipType": "travels_to",
+        "contextExcerpt": "Ma\u00ebl placed all the Soccer Balls in front of the Penalty Arc and fired off two shots."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Goal Net",
+        "relationshipType": "targets",
+        "contextExcerpt": "One after another, the Soccer Balls hit the Goal Net, causing it to shake violently and indent."
+      },
+      {
+        "fromEntity": "Uncle",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "supports",
+        "contextExcerpt": "Another message followed, from Uncle\u2019s phone number: 'It\u2019s been a long time since you bought new soccer shoes. Buy a pair tomorrow. Uncle can\u2019t give you much, but I hope you can achieve your dreams at Arsenal.'"
+      },
+      {
+        "fromEntity": "Eva",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "adores",
+        "contextExcerpt": "Eva, was seven years old and had the best relationship with the original owner, being the most adorable."
+      },
+      {
+        "fromEntity": "Coach Hans",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "helps",
+        "contextExcerpt": "Especially after Coach Hans lent him a pair of soccer shoes, he had nothing to worry about."
+      },
+      {
+        "fromEntity": "Coaching Staff",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "evaluates",
+        "contextExcerpt": "He needed to have a standout feature to catch the eye of the Coaching Staff!"
+      },
+      {
+        "fromEntity": "Arsenal Youth Academy",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "trains",
+        "contextExcerpt": "Ma\u00ebl woke up feeling sore all over, probably due to the intense training the day before."
+      },
+      {
+        "fromEntity": "Team Equipment Room",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "provides",
+        "contextExcerpt": "Ma\u00ebl went to the equipment room and borrowed 10 Soccer Balls."
+      },
+      {
+        "fromEntity": "Penalty Arc",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "serves_as",
+        "contextExcerpt": "Ma\u00ebl placed all the Soccer Balls in front of the Penalty Arc and fired off two shots."
+      },
+      {
+        "fromEntity": "Goal Net",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "receives",
+        "contextExcerpt": "One after another, the Soccer Balls hit the Goal Net, causing it to shake violently and indent."
+      }
+    ]
+  },
+  "timeline": {
+    "events": [
+      {
+        "name": "Intensive Soccer Ball Training",
+        "participants": [
+          "Ma\u00ebl",
+          "Soccer Ball"
+        ],
+        "location": "Training Base",
+        "timeReference": "After dozens of training sessions",
+        "outcome": "Ma\u00ebl's Long Shot proficiency increased to 61/100",
+        "contextExcerpt": "Ma\u00ebl\u2019s eyes lit up. At this rate, he might be able to upgrade Long Shot to Level 2 in just two or three days."
+      },
+      {
+        "name": "Phone Call with Uncle",
+        "participants": [
+          "Ma\u00ebl",
+          "Uncle",
+          "Eva"
+        ],
+        "location": "Dormitory",
+        "timeReference": "Not long after his shower",
+        "outcome": "Ma\u00ebl received encouragement and financial support from Uncle",
+        "contextExcerpt": "Another message followed, from Uncle\u2019s phone number: 'It\u2019s been a long time since you bought new soccer shoes. Buy a pair tomorrow. Uncle can\u2019t give you much, but I hope you can achieve your dreams at Arsenal.'"
+      },
+      {
+        "name": "Sunday Intensive Practice",
+        "participants": [
+          "Ma\u00ebl",
+          "Soccer Ball"
+        ],
+        "location": "Training Base",
+        "timeReference": "The next day, Sunday",
+        "outcome": "Ma\u00ebl upgraded Long Shot to Level 2",
+        "contextExcerpt": "\u3010Skill: Powerful Shot Level 2\u3011 \u3010Proficiency: (1/300)\u3011 \u3010Effect: After long practice, your Long Shot ability has begun to show its potential. When you have sufficient preparation time and full power, you can occasionally produce an excellent Long Shot!\u3011"
+      }
+    ]
+  }
+}

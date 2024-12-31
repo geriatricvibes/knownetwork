@@ -1,0 +1,414 @@
+{
+  "basicEntities": {
+    "entities": [
+      {
+        "name": "Ma\u00ebl",
+        "type": "Character",
+        "aliases": [
+          "Li Muchen"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl raised an eyebrow in regret, somewhat helplessly."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl stood up, picked up a few soccer balls, and walked to the field with his already separating shoes."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl stopped, sweating profusely, and turned to see a tall, bald middle-aged man waving at him from a distance."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl felt both embarrassed and grateful."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl took the shoes, thanked him, and walked back to the field."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl quickly immersed himself in the shooting drills, carefully feeling the feedback from each successful shot and the experience from each failed attempt."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl suddenly stopped, stunned."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl ran to the goal area to retrieve the ball. This time, his steps were particularly strong, and his face lit up with a newfound vigor."
+          }
+        ]
+      },
+      {
+        "name": "Carl",
+        "type": "Character",
+        "aliases": [],
+        "mentions": [
+          {
+            "textExcerpt": "A voice beside him spoke. It was Carl, the French defender on the team, who sounded very dejected."
+          },
+          {
+            "textExcerpt": "Carl looked around at the young players in Arsenal jerseys and shook his head."
+          }
+        ]
+      },
+      {
+        "name": "Hans",
+        "type": "Character",
+        "aliases": [
+          "Head Coach of Arsenal U17"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Ma\u00ebl stopped, sweating profusely, and turned to see a tall, bald middle-aged man waving at him from a distance."
+          },
+          {
+            "textExcerpt": "Hans, the Head Coach of Arsenal U17."
+          },
+          {
+            "textExcerpt": "Hans\u2019s eyes immediately focused on Ma\u00ebl\u2019s feet."
+          },
+          {
+            "textExcerpt": "Hans smiled and turned to search through a shoe rack."
+          },
+          {
+            "textExcerpt": "Hans quickly handed him a bag with a pair of shoes and laughed heartily."
+          }
+        ]
+      },
+      {
+        "name": "Arsenal's Colney Training Ground",
+        "type": "Location",
+        "aliases": [
+          "Colney Training Ground",
+          "U17 Training Field"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Arsenal's Colney Training Ground, U17 Training Field."
+          },
+          {
+            "textExcerpt": "Looking at the brand-new shoes on the feet of his peers, Ma\u00ebl felt a twinge of envy."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl stood up, picked up a few soccer balls, and walked to the field with his already separating shoes."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl stopped his training and walked toward the coach\u2019s office."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl took the shoes, thanked him, and walked back to the field."
+          },
+          {
+            "textExcerpt": "Back at the goal area, he put on the new shoes and resumed his shooting practice."
+          }
+        ]
+      },
+      {
+        "name": "Arsenal U17",
+        "type": "Faction",
+        "aliases": [
+          "Arsenal Youth Team"
+        ],
+        "mentions": [
+          {
+            "textExcerpt": "Carl looked around at the young players in Arsenal jerseys and shook his head."
+          },
+          {
+            "textExcerpt": "Hans, the Head Coach of Arsenal U17."
+          },
+          {
+            "textExcerpt": "Fortunately, the original owner had some talent and received an invitation to trial with the Arsenal Youth Team six months ago, for a six-month period."
+          }
+        ]
+      },
+      {
+        "name": "Soccer Shoe",
+        "type": "Object",
+        "aliases": [],
+        "mentions": [
+          {
+            "textExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+          },
+          {
+            "textExcerpt": "Ma\u00ebl stood up, picked up a few soccer balls, and walked to the field with his already separating shoes."
+          },
+          {
+            "textExcerpt": "The sound of his shoes slapping the ground grew louder as the sole continued to separate and slap back against his feet."
+          },
+          {
+            "textExcerpt": "Hans\u2019s eyes immediately focused on Ma\u00ebl\u2019s feet."
+          },
+          {
+            "textExcerpt": "Hans quickly handed him a bag with a pair of shoes and laughed heartily."
+          },
+          {
+            "textExcerpt": "Back at the goal area, he put on the new shoes and resumed his shooting practice."
+          }
+        ]
+      },
+      {
+        "name": "Chinese National Football Team",
+        "type": "Faction",
+        "aliases": [],
+        "mentions": [
+          {
+            "textExcerpt": "Who knew that the angry drinking session after the Chinese National Football Team\u2019s 0-7 loss to Japan a few days ago would be his swan song in that timeline."
+          }
+        ]
+      },
+      {
+        "name": "System",
+        "type": "Concept",
+        "aliases": [],
+        "mentions": [
+          {
+            "textExcerpt": "Ma\u00ebl suddenly stopped, stunned."
+          },
+          {
+            "textExcerpt": "Fortunately, as a former internet enthusiast, he had seen a lot and quickly ventured a guess. 'System?'"
+          },
+          {
+            "textExcerpt": "It seemed that as long as he continued to practice specific skills, his proficiency would increase, and once it reached 100%, he would level up?"
+          }
+        ]
+      }
+    ]
+  },
+  "entityDetails": {
+    "entityDetails": [
+      {
+        "name": "Ma\u00ebl",
+        "description": "A young soccer player from Southern France with Chinese ancestry, who is on a six-month trial with Arsenal U17.",
+        "physicalTraits": "181 cm tall, 70 kg, average physical strength and speed",
+        "abilities": [
+          "Solid Fundamentals",
+          "Winger Position Skills"
+        ],
+        "roleInChapter": "Trial player at Arsenal U17",
+        "motivations": "Desperately wants to stay at Arsenal and continue his soccer career; determined to make the most of his remaining time",
+        "status": "Alive, practicing with renewed vigor",
+        "notes": "Has a mystical experience where he sees a system notification about his shooting skill; feels both envy and determination when comparing his shoes to his peers'"
+      },
+      {
+        "name": "Carl",
+        "description": "A French defender on the Arsenal U17 team, also on a six-month trial period.",
+        "physicalTraits": [],
+        "abilities": [
+          "Defender Position Skills"
+        ],
+        "roleInChapter": "Teammate and fellow trial player",
+        "motivations": "Worried about his future if he doesn\u2019t get a contract extension; feels dejected about the intense competition",
+        "status": "Alive, discussing his future with Ma\u00ebl",
+        "notes": "Expresses concern about his contract expiring and the difficulty of finding another club"
+      },
+      {
+        "name": "Hans",
+        "description": "The Head Coach of Arsenal U17, who notices Ma\u00ebl\u2019s worn-out shoes and offers him a pair of his own.",
+        "physicalTraits": "Tall, bald, middle-aged",
+        "abilities": [],
+        "roleInChapter": "Coach of the Arsenal U17 team",
+        "motivations": "Wants to help Ma\u00ebl continue his training; observant and kind",
+        "status": "Alive, offering support to Ma\u00ebl",
+        "notes": "Notices Ma\u00ebl\u2019s shoes and lends him a pair of his own; encourages Ma\u00ebl to try them on the field"
+      },
+      {
+        "name": "Arsenal's Colney Training Ground",
+        "description": "The training facility for Arsenal's youth teams, where Ma\u00ebl and his peers practice.",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Location of the U17 training sessions",
+        "motivations": [],
+        "status": "Active training ground",
+        "notes": "Includes the U17 Training Field where Ma\u00ebl practices his shooting"
+      },
+      {
+        "name": "Arsenal U17",
+        "description": "The youth team of Arsenal Football Club, where Ma\u00ebl and Carl are on trial.",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Faction Ma\u00ebl and Carl are part of",
+        "motivations": "To identify and develop talented young players",
+        "status": "Active youth team",
+        "notes": "Highly competitive; players are on trial periods and must perform to stay"
+      },
+      {
+        "name": "Soccer Shoe",
+        "description": "The footwear used by Ma\u00ebl and his peers during training.",
+        "physicalTraits": "Ma\u00ebl\u2019s shoes are worn out and separating at the sole; Hans\u2019s shoes are clean and unused except for training",
+        "abilities": [],
+        "roleInChapter": "Essential equipment for training",
+        "motivations": [],
+        "status": "Worn out (Ma\u00ebl\u2019s), clean and usable (Hans\u2019s)",
+        "notes": "Ma\u00ebl\u2019s shoes are a source of frustration and envy; Hans\u2019s shoes are a symbol of support and kindness"
+      },
+      {
+        "name": "Chinese National Football Team",
+        "description": "The national soccer team of China, which suffered a 0-7 loss to Japan.",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Mentioned as the reason for Ma\u00ebl\u2019s original timeline ending",
+        "motivations": [],
+        "status": "Active team",
+        "notes": "Their loss led to Ma\u00ebl\u2019s drinking session and subsequent time travel"
+      },
+      {
+        "name": "System",
+        "description": "A mystical system that appears to Ma\u00ebl, showing his skill levels and providing feedback on his training.",
+        "physicalTraits": [],
+        "abilities": [],
+        "roleInChapter": "Concept that appears to Ma\u00ebl during his training",
+        "motivations": "To help Ma\u00ebl improve his skills and reach higher levels",
+        "status": "Active and providing feedback",
+        "notes": "Displays a notification about Ma\u00ebl\u2019s Long Shot skill; suggests that continuous practice will lead to improvement"
+      }
+    ]
+  },
+  "relationships": {
+    "relationships": [
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Soccer Shoe",
+        "relationshipType": "owns",
+        "contextExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Arsenal's Colney Training Ground",
+        "relationshipType": "travels_to",
+        "contextExcerpt": "Arsenal's Colney Training Ground, U17 Training Field."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Arsenal U17",
+        "relationshipType": "member_of",
+        "contextExcerpt": "Fortunately, the original owner had some talent and received an invitation to trial with the Arsenal Youth Team six months ago, for a six-month period."
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Carl",
+        "relationshipType": "friend_of",
+        "contextExcerpt": "Ma\u00ebl raised an eyebrow in regret, somewhat helplessly. 'If we don\u2019t get a contract extension by July 1st, we\u2019ll both be on our way out.'"
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "Hans",
+        "relationshipType": "mentored_by",
+        "contextExcerpt": "Hans, the Head Coach of Arsenal U17, called Ma\u00ebl to his office and offered him a pair of shoes."
+      },
+      {
+        "fromEntity": "Hans",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "helps",
+        "contextExcerpt": "Hans quickly handed him a bag with a pair of shoes and laughed heartily. 'Go try them on the field and see if they fit. I have some work to do.'"
+      },
+      {
+        "fromEntity": "Ma\u00ebl",
+        "toEntity": "System",
+        "relationshipType": "linked_to",
+        "contextExcerpt": "Suddenly, a few lines of deep black text appeared before his eyes."
+      },
+      {
+        "fromEntity": "System",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "monitors",
+        "contextExcerpt": "Ma\u00ebl suddenly stopped, stunned. Fortunately, as a former internet enthusiast, he had seen a lot and quickly ventured a guess. 'System?'"
+      },
+      {
+        "fromEntity": "Carl",
+        "toEntity": "Arsenal U17",
+        "relationshipType": "member_of",
+        "contextExcerpt": "Carl, the French defender on the team, who sounded very dejected. 'Mine is only six months, and it\u2019s about to expire.'"
+      },
+      {
+        "fromEntity": "Hans",
+        "toEntity": "Arsenal U17",
+        "relationshipType": "leads",
+        "contextExcerpt": "Hans, the Head Coach of Arsenal U17, called Ma\u00ebl to his office."
+      },
+      {
+        "fromEntity": "Chinese National Football Team",
+        "toEntity": "Ma\u00ebl",
+        "relationshipType": "affects",
+        "contextExcerpt": "Who knew that the angry drinking session after the Chinese National Football Team\u2019s 0-7 loss to Japan a few days ago would be his swan song in that timeline."
+      }
+    ]
+  },
+  "timeline": {
+    "events": [
+      {
+        "name": "End of Training Session",
+        "participants": [
+          "Ma\u00ebl",
+          "Carl"
+        ],
+        "location": "Arsenal's Colney Training Ground, U17 Training Field",
+        "timeReference": "June 10, 2010, end of the day's training",
+        "outcome": "Ma\u00ebl and Carl discuss their uncertain futures with the team",
+        "contextExcerpt": "Two long whistles signaled the end of the day's training. Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+      },
+      {
+        "name": "Ma\u00ebl's Shoe Dilemma",
+        "participants": [
+          "Ma\u00ebl"
+        ],
+        "location": "Arsenal's Colney Training Ground, U17 Training Field",
+        "timeReference": "After the training session",
+        "outcome": "Ma\u00ebl contemplates the state of his shoes and his financial situation",
+        "contextExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again. It\u2019s probably time to retire them."
+      },
+      {
+        "name": "Discussion with Carl",
+        "participants": [
+          "Ma\u00ebl",
+          "Carl"
+        ],
+        "location": "Arsenal's Colney Training Ground, U17 Training Field",
+        "timeReference": "After the training session",
+        "outcome": "Both express their concerns about their trial periods ending",
+        "contextExcerpt": "Ma\u00ebl, how long is your trial period? Mine is only six months, and it\u2019s about to expire."
+      },
+      {
+        "name": "Ma\u00ebl's Extra Practice",
+        "participants": [
+          "Ma\u00ebl"
+        ],
+        "location": "Arsenal's Colney Training Ground, U17 Training Field",
+        "timeReference": "After the training session",
+        "outcome": "Ma\u00ebl decides to practice more shots to improve his chances",
+        "contextExcerpt": "I\u2019m going to practice some more shots. Ma\u00ebl stood up, picked up a few soccer balls, and walked to the field with his already separating shoes."
+      },
+      {
+        "name": "Meeting with Coach Hans",
+        "participants": [
+          "Ma\u00ebl",
+          "Hans"
+        ],
+        "location": "Arsenal's Colney Training Ground, U17 Coach\u2019s Office",
+        "timeReference": "After Ma\u00ebl's extra practice",
+        "outcome": "Hans offers Ma\u00ebl a pair of his own shoes",
+        "contextExcerpt": "Ma\u00ebl! Come to my office for a moment. Ma\u00ebl stopped, sweating profusely, and turned to see a tall, bald middle-aged man waving at him from a distance."
+      },
+      {
+        "name": "Receiving New Shoes",
+        "participants": [
+          "Ma\u00ebl",
+          "Hans"
+        ],
+        "location": "Arsenal's Colney Training Ground, U17 Coach\u2019s Office",
+        "timeReference": "In the coach's office",
+        "outcome": "Ma\u00ebl receives a pair of Hans' shoes and feels grateful",
+        "contextExcerpt": "What size shoes do you wear? Hans\u2019s eyes immediately focused on Ma\u00ebl\u2019s feet. I have a few pairs I don\u2019t use anymore. I can lend you one."
+      },
+      {
+        "name": "Discovery of the System",
+        "participants": [
+          "Ma\u00ebl",
+          "System"
+        ],
+        "location": "Arsenal's Colney Training Ground, U17 Training Field",
+        "timeReference": "After receiving the new shoes",
+        "outcome": "Ma\u00ebl discovers a system that tracks his skill proficiency",
+        "contextExcerpt": "Suddenly, a few lines of deep black text appeared before his eyes. [Skill: Long Shot Level 1] [Proficiency: (34/100)]"
+      }
+    ]
+  }
+}

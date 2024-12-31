@@ -1,0 +1,77 @@
+{
+  "entityDetails": [
+    {
+      "name": "Ma\u00ebl",
+      "description": "A young soccer player from a poor family, who is on a six-month trial with Arsenal's U17 team.",
+      "physicalTraits": "181 cm tall, 70 kg, average physical strength and speed",
+      "abilities": [
+        "Solid fundamentals in soccer",
+        "Long Shot Level 1"
+      ],
+      "roleInChapter": "Protagonist and trial player for Arsenal U17",
+      "motivations": "Stay at Arsenal to pursue his soccer dreams; overcome financial and family challenges",
+      "status": "Alive, determined to improve his skills",
+      "notes": "Has a mysterious system that tracks his skill proficiency; feels a strong connection to soccer"
+    },
+    {
+      "name": "Carl",
+      "description": "A French defender on the Arsenal U17 team, also on a six-month trial.",
+      "physicalTraits": "",
+      "abilities": [],
+      "roleInChapter": "Teammate and fellow trial player",
+      "motivations": "Secure a contract extension to continue his soccer career",
+      "status": "Alive, dejected about his future",
+      "notes": "Expresses concern about his future if he doesn't stay at Arsenal"
+    },
+    {
+      "name": "Hans",
+      "description": "The Head Coach of Arsenal U17, who offers Ma\u00ebl a pair of his own shoes.",
+      "physicalTraits": "Tall, bald, middle-aged",
+      "abilities": [],
+      "roleInChapter": "Coach and authority figure",
+      "motivations": "Support the players and help them improve",
+      "status": "Alive, observant and kind",
+      "notes": "Notices Ma\u00ebl's worn-out shoes and lends him a pair of his own"
+    },
+    {
+      "name": "Arsenal's Colney Training Ground",
+      "description": "The training facility for Arsenal's youth teams.",
+      "physicalTraits": "",
+      "abilities": [],
+      "roleInChapter": "Setting for the training and practice sessions",
+      "motivations": "",
+      "status": "Active and in use",
+      "notes": "Located in the U17 Training Field"
+    },
+    {
+      "name": "Arsenal Youth Team",
+      "description": "The youth academy of Arsenal Football Club.",
+      "physicalTraits": "",
+      "abilities": [],
+      "roleInChapter": "Faction that Ma\u00ebl and Carl are trying to join permanently",
+      "motivations": "To identify and develop young talent",
+      "status": "Active and competitive",
+      "notes": "Highly competitive, with many talented young players"
+    },
+    {
+      "name": "Soccer Shoe",
+      "description": "A pair of shoes used by Ma\u00ebl for training.",
+      "physicalTraits": "Worn out, sole separating",
+      "abilities": [],
+      "roleInChapter": "Object of Ma\u00ebl's frustration and a symbol of his financial struggles",
+      "motivations": "",
+      "status": "Beyond repair, replaced by Hans's shoes",
+      "notes": "Ma\u00ebl's original shoes were glued together multiple times"
+    },
+    {
+      "name": "System",
+      "description": "A mysterious system that appears to Ma\u00ebl, tracking his skill proficiency.",
+      "physicalTraits": "",
+      "abilities": [],
+      "roleInChapter": "Concept that provides Ma\u00ebl with skill levels and feedback",
+      "motivations": "To help Ma\u00ebl improve his soccer skills",
+      "status": "Active and providing feedback",
+      "notes": "Displays skill levels and proficiency, encourages continuous practice"
+    }
+  ]
+}

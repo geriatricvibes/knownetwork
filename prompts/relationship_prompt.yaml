@@ -1,0 +1,54 @@
+prompt: |
+  You are an assistant specializing in extracting **relationships** between known entities in a fictional text. 
+
+  I will provide:
+  1. The text of a single chapter.
+  2. A list of entities (with their types) that appear in this chapter.
+
+  Your task:
+  1. Identify **every relationship** between the entities. A relationship can be:
+     - **Explicit** (directly stated) 
+     - **Strongly implied** (clear from context)
+
+  2. Consider relationships between all entity types:
+     - Character → Character (friend_of, enemy_of, mentor_of)
+     - Character → Location (lives_in, travels_to)
+     - Character → Object (owns, wields)
+     - Character → Faction (member_of, leads)
+     - Character → Concept (linked_to, uses)
+     - Concept → Character (monitors, binds)
+     - Object → Concept (powered_by)
+     - Faction → Faction (allied_with)
+     - Location → Location (adjacent_to)
+     - Or any **custom** relationship that makes sense in context
+
+  3. For each relationship, capture:
+     - **fromEntity**: name of the initiating or source entity
+     - **toEntity**: name of the target entity
+     - **relationshipType**: a short phrase describing the relationship
+     - **contextExcerpt**: a short quote or paraphrase showing why this relationship exists
+
+  Return your answer in **valid JSON** with the structure shown below:
+
+  {{
+    "relationships": [
+      {{
+        "fromEntity": "Maël",
+        "toEntity": "System",
+        "relationshipType": "linked_to",
+        "contextExcerpt": "A few lines of deep black text appeared before his eyes..."
+      }},
+      {{
+        "fromEntity": "System",
+        "toEntity": "Maël",
+        "relationshipType": "monitors",
+        "contextExcerpt": "'System?' Maël ventured a guess..."
+      }}
+    ]
+  }}
+
+  **Important Notes**:
+  - Use the names exactly as listed in the entity reference
+  - Only identify relationships relevant within this chapter's text
+  - Do not include extra fields beyond those requested
+  - Return only valid JSON—no additional text outside the JSON structure 

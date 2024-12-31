@@ -1,0 +1,76 @@
+{
+  "relationships": [
+    {
+      "fromEntity": "Ma\u00ebl",
+      "toEntity": "Arsenal's Colney Training Ground",
+      "relationshipType": "travels_to",
+      "contextExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+    },
+    {
+      "fromEntity": "Ma\u00ebl",
+      "toEntity": "Soccer Shoe",
+      "relationshipType": "owns",
+      "contextExcerpt": "Ma\u00ebl sat on the ground stretching his muscles when he suddenly noticed that the sole of his soccer shoe was starting to come apart again."
+    },
+    {
+      "fromEntity": "Ma\u00ebl",
+      "toEntity": "Arsenal Youth Team",
+      "relationshipType": "member_of",
+      "contextExcerpt": "Fortunately, the original owner had some talent and received an invitation to trial with the Arsenal Youth Team six months ago, for a six-month period."
+    },
+    {
+      "fromEntity": "Ma\u00ebl",
+      "toEntity": "Carl",
+      "relationshipType": "friend_of",
+      "contextExcerpt": "Ma\u00ebl raised an eyebrow in regret, somewhat helplessly. 'If we don\u2019t get a contract extension by July 1st, we\u2019ll both be on our way out.'"
+    },
+    {
+      "fromEntity": "Carl",
+      "toEntity": "Arsenal Youth Team",
+      "relationshipType": "member_of",
+      "contextExcerpt": "Carl, the French defender on the team, who sounded very dejected. 'Mine is only six months, and it\u2019s about to expire.'"
+    },
+    {
+      "fromEntity": "Hans",
+      "toEntity": "Arsenal Youth Team",
+      "relationshipType": "leads",
+      "contextExcerpt": "Hans, the Head Coach of Arsenal U17."
+    },
+    {
+      "fromEntity": "Hans",
+      "toEntity": "Ma\u00ebl",
+      "relationshipType": "mentor_of",
+      "contextExcerpt": "Hans quickly handed him a bag with a pair of shoes and laughed heartily. 'Go try them on the field and see if they fit. I have some work to do.'"
+    },
+    {
+      "fromEntity": "Ma\u00ebl",
+      "toEntity": "System",
+      "relationshipType": "linked_to",
+      "contextExcerpt": "Suddenly, a few lines of deep black text appeared before his eyes."
+    },
+    {
+      "fromEntity": "System",
+      "toEntity": "Ma\u00ebl",
+      "relationshipType": "monitors",
+      "contextExcerpt": "Suddenly, a few lines of deep black text appeared before his eyes."
+    },
+    {
+      "fromEntity": "Hans",
+      "toEntity": "Soccer Shoe",
+      "relationshipType": "lends",
+      "contextExcerpt": "I have a few pairs I don\u2019t use anymore. I can lend you one."
+    },
+    {
+      "fromEntity": "Ma\u00ebl",
+      "toEntity": "Soccer Shoe",
+      "relationshipType": "wears",
+      "contextExcerpt": "Back at the goal area, he put on the new shoes and resumed his shooting practice."
+    },
+    {
+      "fromEntity": "Ma\u00ebl",
+      "toEntity": "Soccer",
+      "relationshipType": "loves",
+      "contextExcerpt": "Ma\u00ebl desperately wanted to stay on the soccer field. This was the sport he loved, the one he was willing to devote all his time and energy to."
+    }
+  ]
+}

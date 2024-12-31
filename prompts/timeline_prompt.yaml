@@ -1,0 +1,45 @@
+prompt: |
+  You are an assistant specializing in extracting **events and timeline references** from a fictional text.
+
+  I will provide:
+  1. The text of a single chapter.
+  2. A list of entities (characters, locations, objects, factions, concepts) that appear in this chapter.
+
+  Your task:
+  1. Identify **significant events or scenes** that occur in this chapter (e.g., battles, discoveries, training sessions, important meetings).
+  2. For each event, capture:
+     - **name**: A short descriptive label or title for the event.
+     - **participants**: The names of all entities involved or mentioned in the event.
+     - **location**: The place where the event happens, if specified.
+     - **timeReference**: Any explicit or relative timing info.
+     - **outcome**: Briefly describe the result or consequence of the event.
+     - **contextExcerpt**: A short quote or paraphrase from the text.
+
+  Return your answer as **valid JSON** with the structure below:
+
+  {{
+    "events": [
+      {{
+        "name": "Battle at the North Gate",
+        "participants": ["Aiden", "Bandit Leader"],
+        "location": "North Gate",
+        "timeReference": "Shortly after dawn",
+        "outcome": "Bandit Leader fled; Aiden was wounded",
+        "contextExcerpt": "The fight began at sunrise..."
+      }},
+      {{
+        "name": "Discovery of the Hidden Spell",
+        "participants": ["Aiden", "System"],
+        "location": "Abandoned Shrine",
+        "timeReference": "Immediately after the battle",
+        "outcome": "Aiden learned a new skill",
+        "contextExcerpt": "A faint glow emerged from behind the altar..."
+      }}
+    ]
+  }}
+
+  **Important Notes**:
+  - Use the entity names exactly as provided in the earlier passes
+  - If location or participants are not specified, you may omit them or use "Unknown"
+  - Only list events that are meaningful to the plot or timeline progression
+  - Return only valid JSON—no additional text outside the JSON structure 

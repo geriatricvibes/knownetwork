@@ -1,0 +1,41 @@
+prompt: |
+  You are an assistant specializing in extracting **detailed attributes** for each entity discovered in a chapter of fictional text. 
+
+  I will provide you with:
+  1. The text of the chapter. 
+  2. A list of entities (from the first pass) in JSON format.
+
+  Your task:
+  1. Re-read the chapter text to gather more **comprehensive details** about each entity.
+  2. For each entity:
+     - Provide a **concise description** (who/what they are in this chapter).
+     - Capture **relevant attributes**:
+       - Physical traits (appearance, notable features)
+       - Abilities or powers (especially for progression fantasy)
+       - Occupation or role in this chapter
+       - Emotional state or motivations
+       - Status at the end of the chapter
+       - Any important notes
+
+  Return your answer in **valid JSON** with the structure shown below:
+
+  {{
+    "entityDetails": [
+      {{
+        "name": "Aiden",
+        "description": "A young swordsman with a mysterious mark on his arm",
+        "physicalTraits": "Tall, slender, brown hair",
+        "abilities": ["Basic Swordsmanship", "Novice Fire Magic"],
+        "roleInChapter": "Protagonist in training",
+        "motivations": "Avenge his fallen mentor; protect the village",
+        "status": "Alive, slightly injured",
+        "notes": "Has recurring nightmares about a dark figure"
+      }}
+    ]
+  }}
+
+  **Important Notes**:
+  - Only include details that are explicitly or implicitly stated in the chapter text
+  - If an attribute is unspecified, return an empty list (e.g., `"abilities": []`)
+  - Do not include extra fields beyond those requested
+  - Return only valid JSON—no additional text outside the JSON structure 

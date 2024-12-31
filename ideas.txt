@@ -1,0 +1,30 @@
+Chapter Metadata (Non LLM)
+
+- Chapter Number
+- Number of words
+- Added On 
+
+Chapter Data (LLM)
+
+- Chapter Summary 
+A concise paragraph summarizing the main conflict, 
+key developments, or the focal point of the chapter.
+
+- Timeline (If Provided)
+Any information about time of day, season, 
+or a special in-world calendar marker mentioned.
+
+- Character Data (LLM)
+Name 
+Alias/Titles (if any) 
+Role in this chapter: Protagonist, Antagonist, Sidekick etc.
+Physical Description: Age, Clothing, distinctive traits (“scar on left cheek,” “emerald-green eyes”)
+Power Level/Rank
+Skill/Technique
+
+
+
+
+Preprocess - Lower case the whole text 
+1st Pass - Entity Detection, Extraction and Entity Map 
+2nd Pass - Information Extract About the Entities
